@@ -15,8 +15,14 @@
 
 
 ## Introduction
-royek ini berfokus pada analisis data lagu di Spotify untuk mengidentifikasi pola dan faktor utama yang memengaruhi popularitas lagu. Dengan memanfaatkan berbagai teknik seperti Exploratory Data Analysis (EDA), pembersihan data, dan penerapan algoritma pembelajaran mesin, proyek ini bertujuan memberikan wawasan kepada konsumen untuk membuat keputusan yang lebih baik terkait playlist dan rekomendasi musik. Selain itu, proyek ini juga bertujuan memprediksi popularitas lagu sehingga konsumen dapat mengantisipasi lagu baru yang berpotensi menjadi hits. Proyek ini dilaksanakan oleh dua mahasiswa Universitas Muhammadiyah Malang dalam rangka memenuhi tugas mata kuliah Analisis Big Data. Berikut adalah informasi anggota tim:
+Proyek ini berfokus pada analisis data lagu di Spotify untuk mengidentifikasi pola dan faktor utama yang memengaruhi popularitas lagu. Dengan memanfaatkan berbagai teknik seperti Exploratory Data Analysis (EDA), pembersihan data, dan penerapan algoritma pembelajaran mesin, proyek ini bertujuan memberikan wawasan kepada konsumen untuk membuat keputusan yang lebih baik terkait playlist dan rekomendasi musik. Selain itu, proyek ini juga bertujuan memprediksi popularitas lagu sehingga konsumen dapat mengantisipasi lagu baru yang berpotensi menjadi hits. Proyek ini dilaksanakan oleh dua mahasiswa Universitas Muhammadiyah Malang dalam rangka memenuhi tugas mata kuliah Analisis Big Data. Berikut adalah informasi anggota tim:
 
 1. Rania (202110370311)
 2. Ellys Rahma Putri Bintoro (202110370311468)
+
+
+## Problem
+Dalam dunia industri musik digital, salah satu tantangan utama yang dihadapi oleh artis, produser, dan pengelola platform musik adalah memahami faktor-faktor yang memengaruhi popularitas sebuah lagu di platform seperti Spotify. Popularitas lagu memiliki dampak signifikan terhadap kesuksesan musisi dan strategi distribusi musik, sehingga analisis pola dan tren musik menjadi langkah penting untuk meningkatkan daya tarik lagu di pasar serta menciptakan pengalaman mendengarkan yang optimal bagi pengguna.
+
+Dengan menggunakan Spotify Songs Dataset, analisis dapat dilakukan untuk menggali wawasan tentang pola-pola yang memengaruhi popularitas lagu. Dataset ini memberikan peluang bagi penggunanya untuk memahami tren musik dan membantu dalam mengambil keputusan berbasis data yang lebih baik.
 
