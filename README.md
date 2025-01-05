@@ -56,7 +56,7 @@ Kemudian, proses Preprocessing dilakukan untuk menyiapkan data agar siap digunak
 
 Setelah data siap, tahap Modeling dimulai, pada kasus ini model yang digunakan adalah [Random Forest](https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html). Diterapkan untuk memprediksi pemesanan dan pembatalan berdasarkan fitur yang tersedia.
 
-Terakhir, Evaluation dilakukan untuk menilai kinerja model menggunakan [evaluation metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html) seperti akurasi, precision, recall, dan F1-score, guna memastikan model dapat memprediksi dengan baik dan akurat.
+Terakhir, Evaluation dilakukan untuk menilai kinerja model menggunakan [Evaluation Metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html) seperti akurasi, precision, recall, dan F1-score, guna memastikan model dapat memprediksi dengan baik dan akurat.
 
 
 ## Dataset
@@ -79,7 +79,7 @@ Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibu
    git clone https://github.com/ellys15-TA-Analisis-Big-Data.git
    ```
 
-2. **Instal dependencies** menggunakan `pip`:
+2. **Instal dependencies/package** menggunakan `pip`:
    ```bash
    pip install -r requirements.txt
    ```
@@ -92,5 +92,5 @@ Untuk memulai proyek ini, pastikan Anda telah menginstal semua package yang dibu
 Repository ini dibuat dengan akses penuh.
 
 ## Team
-- [Rania](https://github.com/Septiannisa13)
+- [Rania](https://github.com/)
 - [Ellys Rahma Putri Bintoro](https://github.com/ellys15)
