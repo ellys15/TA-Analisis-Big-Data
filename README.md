@@ -63,7 +63,7 @@ Terakhir, Evaluation dilakukan untuk menilai kinerja model menggunakan [Evaluati
 
 
 ## Dataset
-Dataset yang digunakan diambil dari github [Penjelasan Data](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md). Dataset ini berisi informasi mengenai _track_id, track_name, track_artist, track_popularity, playlist_name, playlist_id, playlist_genre, tempo, instrumental_, dan masih banyak variabel lainnya lagi yang tentunya dengan class/tipe data yang berbeda. Tipe data/claass yang tersedia pada dataset ini adalah integer, float, dan object. Dataset dapat di download [disini]((https://www.dropbox.com/sh/qj0ueimxot3ltbf/AACzMOHv7sZCJsj3ErjtOG7ya?dl=1))
+Dataset yang digunakan diambil dari github [Penjelasan Data](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md). Dataset ini berisi informasi mengenai _track_id, track_name, track_artist, track_popularity, playlist_name, playlist_id, playlist_genre, tempo, instrumental_, dan masih banyak variabel lainnya lagi yang tentunya dengan class/tipe data yang berbeda. Tipe data/claass yang tersedia pada dataset ini adalah integer, float, dan object. Dataset dapat di download [disini](https://www.dropbox.com/sh/qj0ueimxot3ltbf/AACzMOHv7sZCJsj3ErjtOG7ya?dl=1)
 
 
 ## Dependencies
