@@ -56,7 +56,7 @@ Kemudian, proses Preprocessing dilakukan untuk menyiapkan data agar siap digunak
 
 Setelah data siap, tahap Modeling dimulai, pada kasus ini model yang digunakan adalah [Random Forest](https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html). Diterapkan untuk memprediksi pemesanan dan pembatalan berdasarkan fitur yang tersedia.
 
-Terakhir, Evaluation dilakukan untuk menilai kinerja model menggunakan [evaluation metrics]([https://scikit-learn.org/1.5/api/sklearn.metrics.html](https://scikit-learn.org/stable/api/sklearn.metrics.html)) seperti akurasi, precision, recall, dan F1-score, guna memastikan model dapat memprediksi dengan baik dan akurat.
+Terakhir, Evaluation dilakukan untuk menilai kinerja model menggunakan [evaluation metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html) seperti akurasi, precision, recall, dan F1-score, guna memastikan model dapat memprediksi dengan baik dan akurat.
 
 
 ## Dataset
