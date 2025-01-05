@@ -28,9 +28,9 @@ Dengan menggunakan Spotify Songs Dataset, analisis dapat dilakukan untuk menggal
 
 
 ## Problem Solving Plan
-[image]
-
 Data yang tersedia meliputi informasi mengenai nama playlist, id playlist, genre, tempo, instrumental, energi lagu, dan masih banyak lagi. Analisis ini akan dilakukan menggunakan metodologi yang terdiri dari beberapa tahapan, yaitu:
+
+![Problem Solving Plan](https://www.canva.com/design/DAGbSAnK-Qg/HzD6bzWOLBzRcw2dxj6dag/edit?utm_content=DAGbSAnK-Qg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 1. Pra-pemrosesan Data: Mengatasi nilai yang hilang, serta normalisasi atau standarisasi fitur numerik yang relevan untuk analisis lebih lanjut.
 2. Pemodelan: Menggunakan teknik pembelajaran mesin, seperti Random Forest Classifier atau Random Forest Regressor, untuk memprediksi popularitas lagu berdasarkan fitur yang ada. Dengan model ini, kita dapat menentukan apakah atribut musik tertentu memiliki pengaruh besar terhadap popularitas lagu.
